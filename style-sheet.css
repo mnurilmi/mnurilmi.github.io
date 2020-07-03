@@ -67,6 +67,8 @@ li {
 
 
 .contents {
+  background-color: #2aa2da;
+  color: #fff;
   height: auto;
   margin-top: 100px;
   padding-top: 100px;
